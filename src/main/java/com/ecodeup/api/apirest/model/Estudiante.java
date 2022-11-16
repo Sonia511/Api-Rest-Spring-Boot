@@ -20,6 +20,7 @@ public class Estudiante {
 	private Double nota;
 	
 	public Estudiante() {
+		System.out.println("esto se agrego")
 
 	}
 	public Integer getId() {
